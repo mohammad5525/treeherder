@@ -140,7 +140,7 @@ botocore==1.34.115 \
     # via
     #   boto3
     #   s3transfer
-brotli==1.1.0 \
+brotli==1.2.0 \
     --hash=sha256:03d20af184290887bdea3f0f78c4f737d126c74dc2f3ccadf07e54ceca3bf208 \
     --hash=sha256:0541e747cce78e24ea12d69176f6a7ddb690e62c425e01d31cc065e69ce55b48 \
     --hash=sha256:069a121ac97412d1fe506da790b3e69f52254b9df4eb665cd42460c837193354 \
